@@ -1,0 +1,5 @@
+python-pycairo (100:1.22.0-1) UNRELEASED; urgency=medium
+
+  * https://github.com/pygobject/pycairo/releases/tag/v1.22.0
+
+ -- Wong Hoi Sing Edison <hswong3i@pantarei-design.com>  Sun, 20 Nov 2022 14:13:56 +0800
