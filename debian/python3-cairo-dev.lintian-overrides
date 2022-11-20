@@ -1,0 +1,4 @@
+python3-cairo-dev: copyright-without-copyright-notice
+python3-cairo-dev: initial-upload-closes-no-bugs
+python3-cairo-dev: pkg-config-unavailable-for-cross-compilation
+python3-cairo-dev: zero-byte-file-in-doc-directory

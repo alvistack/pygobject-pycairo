@@ -66,3 +66,5 @@ stamp-h.in
 poetry.lock
 
 .vscode
+
+.pybuild/
