@@ -1,0 +1,4 @@
+python3-cairo: copyright-without-copyright-notice
+python3-cairo: initial-upload-closes-no-bugs
+python3-cairo: malformed-override Unknown tag python3-pycairo: in
+python3-cairo: zero-byte-file-in-doc-directory
