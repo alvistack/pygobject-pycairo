@@ -70,3 +70,4 @@ build-*
 .venv
 cairo-prebuild/
 
+.pybuild/
