@@ -1,5 +1,16 @@
 Since version 1.11.0 Pycairo uses `Semantic Versioning <http://semver.org/>`__
 
+.. _v1.29.1:
+
+1.29.1 - 2026-08-07
+-------------------
+
+* Update dependencies (libpng, zlib) for the Windows wheels :pr:`442`
+* Fix documentation build with Python 3.15 :pr:`441`
+* Build wheels for Python 3.15 (except for 32bit Windows) :pr:`444`
+* Fix a memory leak in :meth:`ScaledFont.text_to_glyphs` :pr:`446`
+* Fix some minor reference leaks :pr:`447`
+
 .. _v1.29.0:
 
 1.29.0 - 2025-11-11
