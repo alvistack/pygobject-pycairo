@@ -1,0 +1,7 @@
+python-pycairo source: binaries-have-file-conflict
+python-pycairo source: file-without-copyright-information
+python-pycairo source: no-debian-changes
+python-pycairo source: not-binnmuable-any-depends-any
+python-pycairo source: source-contains-prebuilt-windows-binary
+python-pycairo source: source-is-missing
+python-pycairo source: source-package-encodes-python-version
